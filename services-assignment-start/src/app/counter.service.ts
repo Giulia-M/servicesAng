@@ -5,6 +5,7 @@ import { Injectable } from "@angular/core";
 })
 export class CounterService {
   constructor() {}
+  //comm
 
   activeToInactive = 0;
   inactiveToActive = 0;
